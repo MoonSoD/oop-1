@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/first_u.dir/Document/Document.cpp.o CMakeFiles/first_u.dir/EMail/EMail.cpp.o CMakeFiles/first_u.dir/Person/Person.cpp.o CMakeFiles/first_u.dir/main.cpp.o  -o first_u 
