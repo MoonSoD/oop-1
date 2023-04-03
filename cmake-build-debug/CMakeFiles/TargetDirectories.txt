@@ -1,3 +1,0 @@
-/home/moonsod/oop/first_u/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/moonsod/oop/first_u/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/moonsod/oop/first_u/cmake-build-debug/CMakeFiles/first_u.dir
